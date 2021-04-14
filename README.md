@@ -14,7 +14,7 @@
 <img src="https://i.ibb.co/s9Zrw8r/2021-04-14-13-36-07-627.gif" width="80%">
 </p>
 
-#<a href="google.com">Демо<a/>
+<h2 align="center"><a  href="https://google.com">Live Demo</a></h2>
 
 # Как пользоваться
 

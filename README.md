@@ -16,7 +16,7 @@
 <img src="https://i.ibb.co/bQNhwk3/2021-04-14-15-28-58-835.gif" width="80%">
 </p>
 
-<h2 align="center"><a  href="https://google.com">Live Demo</a></h2>
+<h2 align="center"><a  href="https://kirilldeveloper48.github.io/Keksobooking/index.html">Демо</a></h2>
 
 # Как пользоваться
 

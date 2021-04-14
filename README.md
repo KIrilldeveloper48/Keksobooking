@@ -11,6 +11,8 @@
 ---
 <p align="center">
 <img src="https://i.ibb.co/Vjfs7Y1/2021-04-14-15-54-50-800.gif" width="80%">
+</p>
+<p>
 <img src="https://i.ibb.co/bQNhwk3/2021-04-14-15-28-58-835.gif" width="80%">
 </p>
 

@@ -2,7 +2,7 @@
 
   //Загрузка данных с сервера
   (function () {
-    let URL = 'https://javascript.pages.academy/keksobooking/data';
+    let URL = 'https://21.javascript.pages.academy/keksobooking/data';
 
     window.load = function (onSuccess, onError) {
 
@@ -36,7 +36,7 @@
 
   //Отправка данных формы на сервер
   (function () {
-    let URL = 'https://javascript.pages.academy/keksobooking';
+    let URL = 'https://21.javascript.pages.academy/keksobooking';
 
     window.upload = function (data, onSuccess, onError) {
 
